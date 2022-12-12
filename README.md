@@ -1,5 +1,5 @@
-<h3> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3>
-<h6> ❤️ I'm Caleb, I love making websites and other related web apps but most of all I love music 🎧 </h6>
+<h3> Hello </h3>
+<h6> ❤️ I'm Caleb, I love making websites and other related web apps</h6>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-pillow&theme=nord_bright)
 
@@ -30,5 +30,3 @@
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=notcalb&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
-<h6> Current favorite song: Untouchable You by No Buses </h6>
