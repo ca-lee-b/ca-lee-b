@@ -3,6 +3,7 @@ current freshman @ the university of minnesota-twin cities studying computer sci
 </p>
 <hr />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-pillow&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca-lee-b&langs_count=6&hide_border=true&layout=compact&theme=github_dark" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=ca-lee-b&show_icons=true&theme=github_dark&hide_border=true" />
+ </a>
