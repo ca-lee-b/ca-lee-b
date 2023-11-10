@@ -1,5 +1,7 @@
 <p>
 current freshman @ the university of minnesota-twin cities studying computer science
+
+  working on: [mininote](https://github.com/ca-lee-b/mininote-server) and [learning go](https://github.com/ca-lee-b/go-rest-boilerplate)
 </p>
 <hr />
 
