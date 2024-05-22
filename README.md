@@ -1,5 +1,5 @@
 <p>
-current freshman @ the university of minnesota-twin cities studying computer science
+current sophomore @ the university of minnesota-twin cities studying computer science
 </p>
 <hr />
 
